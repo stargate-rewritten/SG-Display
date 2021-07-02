@@ -7,7 +7,7 @@
 > Please visit [our discord](https://discord.gg/mTaHuK6BVa) for all updates and support!
 
 # Description
-StargateCommand is an addon for Stargate that incorporates features that fall outside the core plugin's design philosophy. 
+SG-ExtraUtils is an addon for Stargate that incorporates features that fall outside the core plugin's design philosophy. 
 
 #### Features:
 - [To be determined](https://github.com/orgs/stargate-bukkit/projects/1)
