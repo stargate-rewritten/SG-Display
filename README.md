@@ -7,13 +7,16 @@
 > Please visit [our discord](https://discord.gg/mTaHuK6BVa) for all updates and support!
 
 # Description
-SG-ExtraUtils is an addon for Stargate that incorporates features that fall outside the core plugin's design philosophy. 
+SG-Display is an addon for Stargate that allows users to exceed two control surfaces on their portals.<br>
+In practice, this means that portals will generally have two or more signs.
 
 #### Features:
-- [To be determined](https://github.com/orgs/stargate-bukkit/projects/1)
-  - Redstone activated gates
-  - 3D gate designs
-  - Additional interfaces
+- [Still under development](https://github.com/stargate-rewritten/SG-Display/issues).
+  - Per-portal specified cost.
+  - Portal ownership display and modified `p` behaviour.
+    - Whitelists available for `p` gates.
+    - Item-based key specifications for `p` gates.
+  - Per-portal specified language.
 
 ## Dependencies
 [The most recent version of Stargate](https://www.spigotmc.org/resources/stargate.87978/)
@@ -21,12 +24,12 @@ SG-ExtraUtils is an addon for Stargate that incorporates features that fall outs
 # Permissions
 ### Nodes
 ```
-stargate.sgeh.node -- to be added later (description)
-  stargate.sgeh.subnode -- not implemented yet (description)
+sg.display.node -- to be added later (description)
+  sg.display.node.subnode -- not implemented yet (description)
 ```
 ### Defaults
 ```
-stargate.sgeh.node -- op
+sg.display.node -- op
 ```
 
 ## Instructions
